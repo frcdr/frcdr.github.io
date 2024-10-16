@@ -1,0 +1,7 @@
+<?xml version="1.0" encoding="utf-8"?>
+<svg xmlns="http://www.w3.org/2000/svg" fill="none" viewBox="0 0 16 24">
+	<path fill="#000" d="M0 0 H16 L12 4 H4 V8 H12 L8 12 H4 V20 L0 24 Z" />
+	<style>
+		@media (prefers-color-scheme:dark){:root{filter:invert(100%)}}
+	</style>
+</svg>
